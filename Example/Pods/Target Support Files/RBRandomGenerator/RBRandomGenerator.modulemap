@@ -1,0 +1,6 @@
+framework module RBRandomGenerator {
+  umbrella header "RBRandomGenerator-umbrella.h"
+
+  export *
+  module * { export * }
+}
